@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Megha Mohan</h1>
 
-
+<p align="center">
+  <img src="https://github.com/Megha20Mohan/Game/blob/main/giphy.gif">
+</p>
 
 <h3 align="center">Studying Computer Science Engineering with Artificial Intelligence at Amrita University, batch of 2025</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
