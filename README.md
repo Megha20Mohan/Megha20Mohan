@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megha Mohan</h1>
 <h3 align="center">Studying Computer Science Engineering with Artificial Intelligence at Amrita University, batch of 2025</h3>
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fdivine-aesthetic-laptop-mood-pink-gif-17665426&psig=AOvVaw3__I-p6uTJu72mAR6trxuw&ust=1667999841256000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjdgO_VnvsCFQAAAAAdAAAAABAJ" width="300" height="170"/>
+  <img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" width="300" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Megha20Mohan&show_icons=true&line_height=33&count_private=true&theme=radical" height="170"a />
 </div>
 <div id="header" align="center">
